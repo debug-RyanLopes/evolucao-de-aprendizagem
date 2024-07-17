@@ -55,14 +55,61 @@
 - Gostaria de aprender mais sobre os conceitos de TypeScript.
 
 
-## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+## Minha evolução: Modulo 3
 
-- Aprendi como criar um Curriculo e adicionar minhas habilidades e experiências de melhor forma para recrutamento.
+### Aprendizados e Habildades adquiridas no Modulo 3: </br>
+- Testes Automatizados: <br>
+    ° Desenvolvi a capacidade de criar e implementar testes automatizados, garantindo a qualidade e a robustez dos sistemas. ✅
 
-- Me aprofundei mais ainda na Lógica de Promagação, variedade de conceitos fundamentais.
 
-- Adquiri conhecimentos sobre Github, entrei na comunidade e comecei expor meus projetos e conhecimentos.
+- Criação de Servidores: <br>
+    ° Fiz meus primeiros servidores, aprendendo a configurar e gerenciar serviços backend.✅
 
-- Aprendi Sobre Typescrip, so tinha uma base de JavaScript, adotando métodos, processo de refatoração e tipagens .
 
-- Aprendi como usar o Git, usando para clonagem de repositório, criação de pastas usando apenas o Git Bash, dando push no repositório e entre outros. 
+- Rotas, Intermediários e Controladores: <br>
+    ° Aprendi a estruturar aplicações backend de maneira modular utilizando rotas e controladores, separando a lógica de negócio das rotas e implementando middlewares para funcionalidades como autenticação, logging e manipulação de erros.✅
+
+
+- API REST: <br>
+    ° Dominei os conceitos fundamentais de APIs REST, incluindo métodos HTTP (GET, POST, PUT, DELETE), endpoints e status codes. Desenvolvi endpoints para operações CRUD e utilizei ferramentas como Postman para testar APIs.✅
+
+
+- Orientação a Objetos com JavaScript: <br>
+    ° Aprofundei-me na orientação a objetos com JavaScript, criando estruturas mais organizadas e reutilizáveis.✅
+
+
+- Assincronismo: <br>
+    ° Entendi e apliquei o assincronismo, melhorando a eficiência e a capacidade de resposta das minhas aplicações.✅
+
+
+- Leitura e Escrita em Arquivos: <br>
+    ° Adquiri habilidades em leitura e escrita de arquivos, facilitando o gerenciamento de dados de forma eficaz.✅
+
+
+- Generics: <br>
+    ° Aprendi a utilizar generics, permitindo a criação de código mais flexível e reutilizável.✅
+
+
+- Tratamento de Erros com Express: <br>
+    ° Aprendi a implementar um tratamento de erros robusto em aplicações Express, melhorando a confiabilidade do sistema.✅
+
+
+- Habilidades com GitHub: <br>
+    ° Aprofundei-me no uso do GitHub, compreendendo melhores práticas de versionamento e colaboração.✅
+
+
+- Tendências Tecnológicas: <br>
+    ° Mantive-me atualizado com as tendências tecnológicas, adaptando-me rapidamente às novas ferramentas e metodologias.✅
+
+
+- Pesquisa e Leitura de Documentações: <br>
+    ° Desenvolvi a habilidade de pesquisar e ler documentações de maneira eficaz, acelerando o processo de aprendizado e solução de problemas.✅
+
+
+- Autoconhecimento e Inteligência Emocional: <br>
+    ° Trabalhei no desenvolvimento do autoconhecimento e da inteligência emocional, melhorando minha capacidade de lidar com desafios e interações interpessoais.✅
+
+
+- Comunicação: <br>
+    ° Fortaleci minhas habilidades de comunicação, facilitando a colaboração em equipe e a troca de conhecimentos.✅
+
