@@ -1,115 +1,68 @@
+# Descrição:
+### __ Vim por meio deste repositório, que foi criado para o desafio de carreiras do curso de desenvolvimento de software da Cubos Academy. O objetivo principal é documentar e compartilhar o meu progresso como Desenvolvedor de Software ao longo da jornada de aprendizado, oferecendo uma visão clara das habilidades adquiridas e dos conhecimentos desenvolvidos durante o curso.__
 
-# Desafio de Carreira - Ryan Oliveira Lopes
+## Módulo 01  ↴
+-Setup de ferramentas: Configurei meu ambiente de desenvolvimento, instalando e configurando as ferramentas necessárias.
 
-## Conteúdos a serem trabalhados nesse módulo:
-
-- Soft skills
-- Curriculo e carta de apresentação
-- LinkedIn: primeiros passos
-- Postura profissional 
-- Ética em tecnologia
-- Gestão de tempo
-- Git básico
-- Introdução a TypeScript
-- Funções
-- Tipos Utilitários
-- Métodos de strings
-- Métodos de arrays I, II e III
-
-## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
-
-- Soft skills são necessárias para desenvolver o perfil de profissional ideal. São excelentes para resolver problemas diariamente, diante de possíveis dificuldades que podem surgir, e para garantir um futuro consistente na carreira.
-
-- Um curriculo bem apresentado é essencial para a candidatura em uma vaga, o formato como ele é produzido e a montagem dele são detalhes cruciais e determinantes
-
-- LinkedIn é uma plataforma de midia social onde as pessoas podem criar perfis para se conectar com outras na área, uma plataforma de Networking e recrutamento .
-
-- Postura Profissional no mercado de trabalho é o conjunto de características pessoais e condutas adotadas no ambiente de trabalho
-Ética, hábitos, habilidades, competências, conhecimentos e comportamentos
-
-- Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
-- Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
-
-- A gestão de tempo contribui para aprimorar o aprendizado e eficácia no trabalho e consequentemente, contribui para um desempenho acadêmico e profissional satisfatório, como uma forma de organizar tarefas para que tudo funcione de forma encaixada e harmônica.
-
-- Git básico é um sistema de versão de códigos. Gerencia ramificações feitas por diferentes pessoas de uma equipe de forma que mantem a ordem e integração de todas as partes.
-
-- TypeScript é um superconjunto relacionada ao JavaScript aonde permite que adicionemos Tipos.
-
-- Funções são uma sequencia de instruções em um corpo, adicionando valores para retornar um valor
-
-- Tipos Utilitários são bibliotecas de tipos nativos que o Typescript disponibiliza, tipos customizados que estão para usarmos 
-
-- Métodos de strings são maneiras e métodos nátivos que podem ser usadas a objeto tipo string para realizar operações, manipulação de texto, etc...
-
-- Métodos de Array são funções que podem ser usadas em objetos do tipo Array para poder iterar o elemento e manipular
-
-## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
-
-- Quero aprender a organizar mais minha vida profissional e academica, conseguir uma gestão de tempo melhor
-
-- Quero aprender mais sobre sobre Funções.
-
-- Quero entender como o Git funciona e como posso começar a usá-lo para controlar meus projetos de programação.
-
-- Gostaria de aprender mais sobre os conceitos de TypeScript.
+- Git básico: Aprendi os comandos básicos de Git para controle de versão e gerenciamento de código.✅
 
 
-## Minha evolução: Modulo 3
+- NodeJS, NPM e Package.json: Instalei e utilizei NodeJS, compreendendo o gerenciador de pacotes NPM e o arquivo package.json.✅
 
-### Aprendizados e Habildades adquiridas no Modulo 3: </br>
-- Testes Automatizados: <br>
-    ° Desenvolvi a capacidade de criar e implementar testes automatizados, garantindo a qualidade e a robustez dos sistemas. ✅
+- Variáveis: Entendi e coloquei em prática a declaração e uso de variáveis em JavaScript.✅
 
+- Introdução ao TypeScript: Comecei a explorar TypeScript, entendendo suas vantagens, diferenças e sintaxe básica.✅
 
-- Criação de Servidores: <br>
-    ° Fiz meus primeiros servidores, aprendendo a configurar e gerenciar serviços backend.✅
+- Condicionais e Truthiness: Aprendi a utilizar estruturas condicionais e a lógica de truthiness em JavaScript.✅
 
+- Arrays e Loops: Ganhei alto domínio, a criação e manipulação de arrays, além do uso de loops para iterar sobre coleções de dados.✅
 
-- Rotas, Intermediários e Controladores: <br>
-    ° Aprendi a estruturar aplicações backend de maneira modular utilizando rotas e controladores, separando a lógica de negócio das rotas e implementando middlewares para funcionalidades como autenticação, logging e manipulação de erros.✅
+- Objetos: Compreendi a estrutura e manipulação de objetos em JavaScript.✅
 
 
-- API REST: <br>
-    ° Dominei os conceitos fundamentais de APIs REST, incluindo métodos HTTP (GET, POST, PUT, DELETE), endpoints e status codes. Desenvolvi endpoints para operações CRUD e utilizei ferramentas como Postman para testar APIs.✅
+## Módulo 02  ↴
+
+No segundo módulo, aprofundei meus conhecimentos em programação e manipulação de dados:
+
+- Funções: Aprendi a entender, declarar e utilizar funções para modularizar o código.✅
+
+- Tipos de Dados: Estudei os diferentes tipos de dados disponíveis em JavaScript e - TypeScript e a forma de usar cada um.✅
+
+- Tipos Utilitários: Explorei os tipos utilitários em TypeScript para criar tipos mais flexíveis, atualizados e seguros.✅
+
+- Métodos de Strings: Compreendi e utilizei métodos de strings para manipulação de texto e variáveis.✅
+
+- Métodos de Arrays: Aprofundei meus conhecimentos nos métodos de arrays para realizar operações complexas em coleções de dados.✅
 
 
-- Orientação a Objetos com JavaScript: <br>
-    ° Aprofundei-me na orientação a objetos com JavaScript, criando estruturas mais organizadas e reutilizáveis.✅
+## Módulo 03  ↴
 
+No terceiro módulo, apliquei e expandi meus conhecimentos em desenvolvimento web e habilidades interpessoais:
 
-- Assincronismo: <br>
-    ° Entendi e apliquei o assincronismo, melhorando a eficiência e a capacidade de resposta das minhas aplicações.✅
+- Testes automatizados: Desenvolvi habilidades para criar e implementar testes automatizados, garantindo a qualidade do software.✅
 
+- Criação de servidores: Aprendi a configurar e gerenciar meus primeiros servidores backend.✅
 
-- Leitura e Escrita em Arquivos: <br>
-    ° Adquiri habilidades em leitura e escrita de arquivos, facilitando o gerenciamento de dados de forma eficaz.✅
+- Rotas, Intermediários e Controladores: Estruturei aplicações backend de maneira organizada e eficaz, separando a lógica de negócio e implementando intermediarios(middlewares).✅
 
+- API REST: Dominei a criação e consumo de APIs RESTful, utilizando métodos HTTP, endpoints e status codes, utilizando também Insomnia e PostMan.✅
 
-- Generics: <br>
-    ° Aprendi a utilizar generics, permitindo a criação de código mais flexível e reutilizável.✅
+- Orientação a objetos com JavaScript: Aprofundei-me na orientação a objetos, criando estruturas mais organizadas e reutilizáveis.✅
 
+- Assincronismo: Entendi e apliquei o assincronismo para melhorar a eficiência das aplicações.✅
 
-- Tratamento de Erros com Express: <br>
-    ° Aprendi a implementar um tratamento de erros robusto em aplicações Express, melhorando a confiabilidade do sistema.✅
+- Leitura e escrita em arquivos: Adquiri habilidades em leitura e escrita de arquivos, facilitando o gerenciamento de dados.✅
 
+- Generics: Utilize generics para criar código mais flexível e reutilizável.✅
 
-- Habilidades com GitHub: <br>
-    ° Aprofundei-me no uso do GitHub, compreendendo melhores práticas de versionamento e colaboração.✅
+- Tratamento de erros com Express: Implementei tratamento de erros robusto em aplicações Express.✅
 
+- Aprofundamento e habilidades com GitHub: Melhorei minhas práticas de versionamento e colaboração no GitHub.✅
 
-- Tendências Tecnológicas: <br>
-    ° Mantive-me atualizado com as tendências tecnológicas, adaptando-me rapidamente às novas ferramentas e metodologias.✅
+- Tendências tecnológicas: Mantive-me atualizado com as tendências tecnológicas, adaptando-me rapidamente às novas ferramentas e metodologias.✅
 
+- Pesquisa e leitura de documentações: Desenvolvi a habilidade de pesquisar e ler documentações de maneira eficaz.✅
 
-- Pesquisa e Leitura de Documentações: <br>
-    ° Desenvolvi a habilidade de pesquisar e ler documentações de maneira eficaz, acelerando o processo de aprendizado e solução de problemas.✅
+- Autoconhecimento e inteligência emocional: Trabalhei no desenvolvimento do autoconhecimento e da inteligência emocional.✅
 
-
-- Autoconhecimento e Inteligência Emocional: <br>
-    ° Trabalhei no desenvolvimento do autoconhecimento e da inteligência emocional, melhorando minha capacidade de lidar com desafios e interações interpessoais.✅
-
-
-- Comunicação: <br>
-    ° Fortaleci minhas habilidades de comunicação, facilitando a colaboração em equipe e a troca de conhecimentos.✅
-
+- Comunicação: Fortaleci minhas habilidades de comunicação, facilitando a colaboração em equipe e a troca de conhecimentos.✅
